@@ -1,0 +1,7 @@
+source_name,source_url,instrument_category,brand_name,model_name,condition_label,source_price,checked_date,memo
+shimamura,https://example.com/shimamura/electric-guitar,エレキギター,Fender,American Professional II Stratocaster,Aランク,120000,2026-07-06,サンプル行（同一モデル6状態）
+shimamura,https://example.com/shimamura/electric-guitar,エレキギター,Fender,American Professional II Stratocaster,Bランク,100000,2026-07-06,サンプル行（同一モデル6状態）
+shimamura,https://example.com/shimamura/electric-guitar,エレキギター,Fender,American Professional II Stratocaster,Cランク,80000,2026-07-06,サンプル行（同一モデル6状態）
+ishibashi,https://example.com/ishibashi/electric-guitar,エレキギター,Fender,American Professional II Stratocaster,美品,118000,2026-07-06,サンプル行（同一モデル6状態）
+ishibashi,https://example.com/ishibashi/electric-guitar,エレキギター,Fender,American Professional II Stratocaster,良品,98000,2026-07-06,サンプル行（同一モデル6状態）
+ishibashi,https://example.com/ishibashi/electric-guitar,エレキギター,Fender,American Professional II Stratocaster,並品,78000,2026-07-06,サンプル行（同一モデル6状態）
